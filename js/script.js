@@ -108,5 +108,3 @@ form.addEventListener("submit", function (event) {
   alert("Form submitted successfully!");
   form.reset(); // Optional: Reset form fields
 });
-
-const date = new Date();
